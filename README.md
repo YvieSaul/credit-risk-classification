@@ -1,6 +1,6 @@
 ## Overview of the Analysis
 
-The purpose of this analysis was to evaluate the performance of machine learning models in predicting the likelihood of loans being classified as either healthy loans (0) or high-risk loans (1). The dataset provided financial information about loans, including a variety of features, such as borrower income, debt-to-income ratio, and the number of accounts and derogatory marks, that could help predict loan performance.
+The purpose of this analysis was to evaluate the performance of machine learning models in predicting the likelihood of loans being classified as either healthy loans (0) or high-risk loans (1). The dataset provided financial information about loans, including a variety of features, such as borrower income, debt-to-income ratio, and the number of accounts and derogatory marks, which could all help predict loan performance.
 
 The target variable was binary, where:
 
